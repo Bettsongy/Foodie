@@ -1,4 +1,4 @@
-package com.imooc.foodiedev;
+package imooc.imooc.foodiedev;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

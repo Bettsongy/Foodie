@@ -1,4 +1,4 @@
-package com.imooc.foodiedev;
+package imooc.imooc.foodiedev;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
